@@ -1,5 +1,7 @@
-https://github.com/Sekiryuutei/font-lib.git
+Quick setup — if you’ve done this kind of thing before
+or
 
+We recommend every repository include a README, LICENSE, and .gitignore.
 …or create a new repository on the command line
 
 echo "# font-lib" >> README.md
