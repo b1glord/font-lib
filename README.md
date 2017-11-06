@@ -1,17 +1,17 @@
-Quick setup — if you’ve done this kind of thing before
-or
+<div>Quick setup — if you’ve done this kind of thing before or</div>
 
-We recommend every repository include a README, LICENSE, and .gitignore.
-…or create a new repository on the command line
+<div>We recommend every repository include a README, LICENSE, and .gitignore. …or create a new repository on the command line</div>
 
-echo "# font-lib" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Sekiryuutei/font-lib.git
-git push -u origin master
+<div>echo "# font-lib" >> README.md </div>
 
-…or push an existing repository from the command line
+<div>git init git add README.md </div>
 
-git remote add origin https://github.com/Sekiryuutei/font-lib.git
-git push -u origin master
+<div>git commit -m "first commit" git remote add origin https://github.com/Sekiryuutei/font-lib.git </div>
+
+<div>git push -u origin master</div>
+
+<div>…or push an existing repository from the command line</div>
+
+<div>git remote add origin https://github.com/Sekiryuutei/font-lib.git </div>
+
+<div>git push -u origin master</div>
