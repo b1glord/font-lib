@@ -4,15 +4,7 @@
 
 <div>echo "# font-lib" >> README.md </div>
 
-<div>git init </div>
 
-<div> git add README.md </div>
-
-<div>git commit -m "first commit" </div>
-  
-<div>  git remote add origin https://github.com/Sekiryuutei/font-lib.git </div>
-
-<div>git push -u origin master</div>
 
 <div><b>…or push an existing repository from the command line</b></div>
 
